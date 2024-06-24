@@ -7,7 +7,7 @@
 </p>
 
 # ʙʀᴀɴᴄʜ
-* <b>𝟸 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore)</b>
+* <b>𝟸 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Ahmed789l/new-2-fsub)</b>
 * <b>3 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/3fsub)</b>
 * <b>ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/AutoDelete)</b>
 * <b>𝟺 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/multi-fsub)</b>
@@ -58,7 +58,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Codeflix-Bots/FileStore">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Ahmed789l/new-2-fsub">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
