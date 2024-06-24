@@ -84,7 +84,7 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton("⚡️ ᴀʙᴏᴜᴛ", callback_data = "about"),
-                    InlineKeyboardButton('🍁 ᴘʀᴇᴍɪᴜᴍ', url='https://t.me/OtakuFlix_Network/4639')
+                    InlineKeyboardButton('🍁 Mᴀɪɴ Cʜᴀɴɴᴇʟ', url='https://t.me/Straw_hats_bot')
                 ]
             ]
                 )
@@ -117,8 +117,8 @@ REPLY_ERROR = """<code>Use this command as a reply to any telegram message with 
 async def not_joined(client: Client, message: Message):
     buttons = [
         [
-            InlineKeyboardButton(text="Join Channel", url=client.invitelink),
-            InlineKeyboardButton(text="Join Channel", url=client.invitelink2),
+            InlineKeyboardButton(text="Jᴏɪɴ Cʜᴀɴɴᴇʟ 1", url=client.invitelink),
+            InlineKeyboardButton(text="Jᴏɪɴ Cʜᴀɴɴᴇʟ 2", url=client.invitelink2),
         ]
     ]
     try:
